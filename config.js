@@ -11,7 +11,7 @@ global.autoTyping = process.env.AUTO_TYPING === 'true';
 global.autoRecord = process.env.AUTO_RECORD === 'true';
 global.autoViewStatus = process.env.AUTO_VIEW_STATUS === 'true';
 global.AUTOSTATUS_REACT = process.env.AUTOSTATUS_REACT === 'true';
-global.autoLikeEmoji = process.env.AUTO_LIKE_EMOJI || "💚";
+global.autoLikeEmoji = process.env.AUTO_LIKE_EMOJI || "";
 
 global.LEVELUP = process.env.LEVELUP === 'true';
 
